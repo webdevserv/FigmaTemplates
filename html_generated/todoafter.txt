@@ -1,0 +1,10 @@
+-with Figma everything is too big
+-change the link googleapis font
+-remove the space-positioning
+-check cropping of images, adjust pixels
+- body {
+    font-family: 'Flavors', cursive;
+}
+a.studies_i304_138_304_43_304_25:hover {
+    color: #FFA800;
+}
